@@ -1,0 +1,7 @@
+.nav-links{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 25px;
+    padding: 50px;
+}
